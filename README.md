@@ -1,4 +1,4 @@
-# NorintChan
+
 <!DOCTYPE html>
 <html>
 <head>
